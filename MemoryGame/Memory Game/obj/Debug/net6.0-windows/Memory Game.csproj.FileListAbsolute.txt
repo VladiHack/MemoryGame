@@ -1,0 +1,21 @@
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\bin\Debug\net6.0-windows\Memory Game.exe
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\bin\Debug\net6.0-windows\Memory Game.deps.json
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\bin\Debug\net6.0-windows\Memory Game.runtimeconfig.json
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\bin\Debug\net6.0-windows\Memory Game.dll
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\bin\Debug\net6.0-windows\Memory Game.pdb
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory Game.csproj.AssemblyReference.cache
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory_Game.CloseWindow.resources
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory_Game.EntryWindow.resources
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory_Game.Properties.Resources.resources
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory Game.csproj.GenerateResource.cache
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory Game.AssemblyInfoInputs.cache
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory Game.AssemblyInfo.cs
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory Game.dll
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\refint\Memory Game.dll
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory Game.pdb
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory Game.genruntimeconfig.cache
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\ref\Memory Game.dll
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory_Game.InfoWindow.resources
+C:\Users\Vladimir Boychev\Desktop\ProjectHomework\Memory Game\obj\Debug\net6.0-windows\Memory_Game.GameWindow.resources

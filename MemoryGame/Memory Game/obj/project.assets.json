@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v6.0,Profile=windows": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0,Profile=windows": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Vladimir Boychev\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Vladimir Boychev\\Desktop\\MemoryGame\\Memory Game\\Memory Game.csproj",
+      "projectName": "Memory Game",
+      "projectPath": "C:\\Users\\Vladimir Boychev\\Desktop\\MemoryGame\\Memory Game\\Memory Game.csproj",
+      "packagesPath": "C:\\Users\\Vladimir Boychev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vladimir Boychev\\Desktop\\MemoryGame\\Memory Game\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Vladimir Boychev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net60-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net60-windows": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net60-windows": {}
+    }
+  }
+}
